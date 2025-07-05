@@ -73,3 +73,6 @@ NAC = "countries/NAC.txt"#华北抗日根据地
 NRC = "countries/NRC.txt"#南京安全区
 HLJ = "countries/HLJ.txt"#黑龙江自卫军
 JLS = "countries/JLS.txt"#吉林自卫军
+CGZ = "countries/CGZ.txt"#陈珪璋部队
+YWQ = "countries/YWQ.txt"#杨万青部队
+MTX = "countries/MTX.txt"#马廷贤部队
